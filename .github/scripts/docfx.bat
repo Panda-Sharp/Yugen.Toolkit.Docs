@@ -1,1 +1,0 @@
-"docfx/docfx.exe" docfx.json --property VisualStudioVersion=16.0
